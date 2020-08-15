@@ -1,0 +1,12 @@
+{
+  "name": "asiainfo-product-portal-api",
+  "version": "1.0.0",
+  "description": "asiainfo-product-portal-api API 文档",
+  "title": "asiainfo-product-portal-api API",
+  "url": "http://10.1.241.36:9096/api",
+  "forceLanguage": "zh-cn",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
