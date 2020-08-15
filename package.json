@@ -1,10 +1,10 @@
 {
-  "name": "aid-api",
+  "name": "koa-api",
   "version": "0.0.1",
-  "description": "aid service api",
+  "description": "koa service api",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
     "test": "ava app/test/**/*.js --fail-fast",
     "test:cov": "nyc npm test",
     "api-doc": "apidoc -i src/controller -o src/api-doc/api"

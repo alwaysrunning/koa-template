@@ -6,7 +6,7 @@ module.exports = {
   dialect: 'mysql',
   name: 'portal',
   username: 'root',
-  password: 'yaxinaid',
+  password: '123456',
   // password: 'root',
   pool: {
     max: 20,
