@@ -1,5 +1,4 @@
 module.exports = {
-  // host: '10.1.241.36',
   host: 'localhost',
   storage: 'data/aid-api.db',
   port: 3306,
